@@ -3,7 +3,7 @@ import random
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 lst=[]
-population=100000
+population=10000000
 a=['A']*(population*52)
 b=['B']*(population*48)
 countA=0
