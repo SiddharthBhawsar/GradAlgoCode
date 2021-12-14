@@ -8,7 +8,7 @@ import random
 from collections import Counter
 import matplotlib.pyplot as plt
 
-n=100000
+n=10000000
 arr=np.zeros((n))
 
 for i in range(n):
